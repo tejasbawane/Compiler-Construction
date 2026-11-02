@@ -1,5 +1,5 @@
 %{
-#include <stdio.h> //SOUMYA BAJIRAO
+#include <stdio.h> //TEJAS BAWANE
 int count = 0;
 %}
 
