@@ -1,5 +1,5 @@
 %{
- //Soumya bajirao 24070521146
+ //Tejas bawane 24070521147
 #include "y.tab.h"
 %}
 
